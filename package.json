@@ -1,0 +1,17 @@
+{
+  "name": "burn-list-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.18.2",
+    "@solana/spl-token": "^0.3.7",
+    "@solana/web3.js": "^1.73.3"
+  }
+}
